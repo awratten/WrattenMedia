@@ -83,7 +83,7 @@
 			<div class="header-content-inner">
 				<h1 id="homeHeading">Welcome to Wratten Media</h1>
 				<hr>
-				<p>We are a small Cairns based graphic designe agency.</p>
+				<p>We are a small Cairns based graphic design agency.</p>
 				<a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
 			</div>
 		</div>
