@@ -279,7 +279,7 @@
 					<hr class="primary">
 					<?php #<p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p> ?>
 				</div>
-				<div class="col-lg-2 col-lg-offset-1 text-center">
+				<div class="col-lg-2 col-lg-offset-3 text-center">
 					<i class="fa fa-facebook-official fa-3x sr-contact"></i>
 				</div>
 				<div class="col-lg-2 text-center">
