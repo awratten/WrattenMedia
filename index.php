@@ -214,10 +214,10 @@
 						<div class="portfolio-box-caption">
 							<div class="portfolio-box-caption-content">
 								<div class="project-category text-faded">
-									Category
+									Branding + Packaging Design
 								</div>
 								<div class="project-name">
-									Project Name
+									Chénier Cosmetics
 								</div>
 							</div>
 						</div>
