@@ -209,8 +209,8 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<a href="img/portfolio/fullsize/5.jpg" class="portfolio-box">
-						<img src="img/portfolio/thumbnails/5.jpg" class="img-responsive" alt="">
+					<a href="img/portfolio/fullsize/5.png" class="portfolio-box">
+						<img src="img/portfolio/thumbnails/5.png" class="img-responsive" alt="">
 						<div class="portfolio-box-caption">
 							<div class="portfolio-box-caption-content">
 								<div class="project-category text-faded">
