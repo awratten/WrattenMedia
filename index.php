@@ -114,21 +114,21 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-camera-retro text-primary sr-icons"></i>
                         <h3>Photography</h3>
-                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
+                       <?php # <p class="text-muted">You can use this theme as is, or you can make changes!</p> ?>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-diamond text-primary sr-icons"></i>
                         <h3>Custom Wedding Invitations</h3>
-                        <p class="text-muted">We update dependencies to keep things fresh.</p>
+                        <?php #<p class="text-muted">We update dependencies to keep things fresh.</p> ?>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
                         <h3>Made with Love</h3>
-                        <p class="text-muted">You have to make your websites with love these days!</p>
+                        <?php #<p class="text-muted">You have to make your websites with love these days!</p> ?>
                     </div>
                 </div>
             </div>
