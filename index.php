@@ -107,7 +107,7 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-newspaper-o  text-primary sr-icons"></i>
                         <h3>Graphic Design</h3>
-                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
+                        <?php #<p class="text-muted">Our templates are updated regularly so they don't break.</p> ?>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
