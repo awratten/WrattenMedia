@@ -154,7 +154,7 @@
 						<div class="portfolio-box-caption">
 							<div class="portfolio-box-caption-content">
 								<div class="project-category text-faded">
-									Brochure Desgin
+									Brochure Design
 								</div>
 								<div class="project-name">
 									Dominic Clifford
