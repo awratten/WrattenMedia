@@ -154,10 +154,10 @@
 						<div class="portfolio-box-caption">
 							<div class="portfolio-box-caption-content">
 								<div class="project-category text-faded">
-									Category
+									Brochure Desgin
 								</div>
 								<div class="project-name">
-									Project Name
+									Dominic Clifford
 								</div>
 							</div>
 						</div>
