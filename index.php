@@ -187,7 +187,7 @@
 									Custom Wedding Invitations
 								</div>
 								<div class="project-name">
-									Spring Wedding
+									Spring Wedding Invite
 								</div>
 							</div>
 						</div>
