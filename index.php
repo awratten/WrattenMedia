@@ -184,10 +184,10 @@
 						<div class="portfolio-box-caption">
 							<div class="portfolio-box-caption-content">
 								<div class="project-category text-faded">
-									Category
+									Custom Wedding Invitations
 								</div>
 								<div class="project-name">
-									Project Name
+									Spring Wedding
 								</div>
 							</div>
 						</div>
