@@ -251,7 +251,7 @@
 		</div>
 	</aside>
 
-	<aside class="bg-dark">
+	<aside class="bg-primary">
 		<div class="container text-center">
 			<div class="call-to-action">
 				<div class="col-lg-8 col-lg-offset-2 text-center">
@@ -260,13 +260,13 @@
 					<?php #<p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p> ?>
 				</div>
 				<div class="col-lg-2 col-lg-offset-3 text-center">
-					<i class="fa fa-facebook-official fa-3x sr-contact"></i>
+					<a href="https://www.facebook.com/WrattenMedia/" target="_BLANK"><i class="fa fa-facebook-official fa-3x sr-contact"></i></a>
 				</div>
 				<div class="col-lg-2 text-center">
-					<i class="fa fa-instagram fa-3x sr-contact"></i>
+					<a href="https://www.instagram.com/wrattenmedia/" target="_BLANK"><i class="fa fa-instagram fa-3x sr-contact"></i></a>
 				</div>
 				<div class="col-lg-2 text-center">
-					<i class="fa fa-pinterest-square fa-3x sr-contact"></i>
+					<a href="https://www.pinterest.com/Kelwratten" target="_BLANK"><i class="fa fa-pinterest-square fa-3x sr-contact"></i></a>
 				</div>
 			</div>
 		</div>
