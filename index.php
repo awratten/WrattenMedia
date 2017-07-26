@@ -259,13 +259,13 @@
 					<hr class="primary">
 					<?php #<p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p> ?>
 				</div>
-				<div class="col-lg-2 col-lg-offset-3 text-center">
+				<div class="col-lg-2 col-lg-offset-3 text-center" style="color:white;">
 					<a href="https://www.facebook.com/WrattenMedia/" target="_BLANK"><i class="fa fa-facebook-official fa-3x sr-contact"></i></a>
 				</div>
-				<div class="col-lg-2 text-center">
+				<div class="col-lg-2 text-center" style="color:white;">
 					<a href="https://www.instagram.com/wrattenmedia/" target="_BLANK"><i class="fa fa-instagram fa-3x sr-contact"></i></a>
 				</div>
-				<div class="col-lg-2 text-center">
+				<div class="col-lg-2 text-center" style="color:white;">
 					<a href="https://www.pinterest.com/Kelwratten" target="_BLANK"><i class="fa fa-pinterest-square fa-3x sr-contact"></i></a>
 				</div>
 			</div>
