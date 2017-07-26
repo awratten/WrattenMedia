@@ -88,7 +88,7 @@
 			</div>
 		</div>
 	</header>
-
+<?php /* 
 	<section class="bg-primary" id="about">
 		<div class="container">
 			<div class="row">
@@ -101,7 +101,7 @@
 			</div>
 		</div>
 	</section>
-
+*/ ?>
 	<section id="services">
 		<div class="container">
 			<div class="row">
